@@ -9,4 +9,7 @@ public class Caterpillarxxx {
 		
 	}
 
+	int get_moves(){
+		return moves;
+	}
 }
